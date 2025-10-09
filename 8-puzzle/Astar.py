@@ -70,7 +70,7 @@ def print_path(path):
             print(state[i:i+3])
         print()
 
-# Example usage:
+
 start_state = (0, 1, 3,
                4, 2, 6,
                7, 5, 8)
